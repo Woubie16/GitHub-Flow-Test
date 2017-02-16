@@ -1,11 +1,18 @@
 # GitHub-Flow-Test
 This repository has been created to demonstrate how GitHub Flow works. 
+
 We will be testing the following steps:
+
 Step 1: Creating a branch
+
 Step 2: Add commits
+
 Step 3: Open a Pull Request
+
 Step 4: Discussion and review your code
+
 Step 5: Deploy
+
 Step 6: Merge
 
 Details of the steps that we will be following are below. Please note the content of this document has been copied from the following site: 
