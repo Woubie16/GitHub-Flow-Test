@@ -15,6 +15,8 @@ Step 5: Deploy
 
 Step 6: Merge
 
+Step 7: Test
+
 Details of the steps that we will be following are below. Please note the content of this document has been copied from the following site: 
 Source: https://guides.github.com/introduction/flow/  
 
